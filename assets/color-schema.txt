@@ -1,0 +1,3 @@
+backg: #EAEFF2
+main: #FF3D33
+highlight:#00E0D4

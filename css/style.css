@@ -1,0 +1,154 @@
+/* 	^o^ 
+	06-03-2022 
+	ver .1 		*/
+
+header{
+	background-color: #59594A;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+body{
+
+	background-color: #EAEFF2;
+	font-family: 'Montserrat', sans-serif;
+}
+
+/* header image and text */
+/*.headerROW{
+	margin: 30px 20px 20px 20px;
+}*/
+
+.emblem{
+	margin: 0px 10px;
+	float: left;
+}
+
+.logoTXT{
+	/*padding: 0px 0px 0px 0px;*/
+	margin: 20px 20px 20px 20px;	
+}
+
+.swachh{
+	float: right;
+	padding: 10px 10px 10px 10px;
+}
+/**/
+
+/* mid section justification */
+.chunk1{
+	margin: 50px 10px 10px 10px;
+}
+/**/
+
+.slideshow1{
+	padding-top: 10px;
+
+	width:  50%;
+	height: auto;
+	text-align:center;
+	position: relative;
+	margin: auto;
+
+}
+
+/* button1 map */
+
+/* button2 */
+a.btn.btn-primary{
+	background-color: #FF3D33;
+	border-color: #FF3D33;
+	color: white;
+
+	width: 200px;
+	
+	padding: 10px 10px;
+	margin: 80px 0px 60px -46px;
+	transition-duration: 0.4s;
+}
+
+a.btn.btn-primary:hover{
+	background-color: #c41e16;
+	color: white;
+}
+/**/
+
+.bottom-videos{
+	background-color: #8EE4AF;
+	color: black;
+
+	padding: 20px 20px 20px 20px;
+	margin: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+/* tripti */
+
+.col-sm-8 .img-thumbnail{
+ padding:2px;
+ border: 2px solid white;
+ margin: 2px;
+ object-position: 50% 25%;
+}
+.d-flex{
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.d-grid a{
+    padding: 10px;
+    border: 20px;
+    margin: 20px;
+    width: 100px;
+    
+}
+div .col-sm-2 .img-thumbnail{
+text-align: right;
+}
+
+.col-md-3 .card{
+
+    border-color: black;
+    border-width: 1px;
+    
+}
+.card .card-body .card-title{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.card-text{
+	font-size: 13px;
+}
+
+.card .card-body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.col{
+    border-color: black;
+    border-width: 1px;
+   
+}
+
+.d-flex input {
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #f7bfbc;
+    color: black;
+    width: 1000px;
+}
+.d-flex btn{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.site-footer{
+  background-color: #adad9e;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 70px 5px 5px 5px;
+}
+
+
